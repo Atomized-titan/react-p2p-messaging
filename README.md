@@ -8,8 +8,8 @@ To run the app, first start the server by running this command in the root direc
 
 Next, start the react app:
 
-### `cd react-gun
-npm start`
+### `cd react-gun`
+### `npm start`
 
 The chat app should now be running. You should be able to open multiple browser windows and be able to see new messages coming through in real time.
 
