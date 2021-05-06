@@ -1,6 +1,27 @@
-# Getting Started with Create React App
+# Running the app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+To run the app, first start the server by running this command in the root directory:
+
+### `node index.js`
+
+Next, start the react app:
+
+### `cd react-gun
+npm start`
+
+The chat app should now be running. You should be able to open multiple browser windows and be able to see new messages coming through in real time.
+
+" ? Something is already running on port 3000.
+
+Would you like to run the app on another port instead? » (Y/n)"
+
+Press Y and Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
+
+
+
+
 
 ## Available Scripts
 
